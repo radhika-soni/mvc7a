@@ -15,3 +15,4 @@ spl_autoload_register(function ($classname){
 });
 
 $obj = new Autoload();
+// kuch bhi
